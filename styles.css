@@ -87,3 +87,8 @@ body {
 .video-channel-name:hover {
     color: #111;
 }
+
+.video-channel-name,
+.video-metadata {
+    color: #555;
+}
