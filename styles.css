@@ -63,3 +63,8 @@ body {
     height: 36px;
     background-color: #aaa;
 }
+
+.video-details {
+    display: flex;
+    flex-direction: column;
+}
