@@ -17,6 +17,6 @@ body {
     display: flex;
 }
 
-.thumbnail::Before {
+.thumbnail::before {
     content: attr(data-duration);
 }
