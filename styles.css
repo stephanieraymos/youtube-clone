@@ -16,6 +16,10 @@ body {
     border-top: 4px solid #ccc;
 }
 
+.video-section:first-child {
+    border-top: none;
+}
+
 .video-container {
     display: flex;
     flex-direction: column;
