@@ -76,3 +76,9 @@ body {
     text-decoration: none;
     color: #000;
 }
+
+.video-channel-name {
+    margin-bottom: .1rem;
+    text-decoration: none;
+    color: #555;
+}
