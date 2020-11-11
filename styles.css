@@ -106,4 +106,7 @@ body {
     border: none;
     background: none;
     padding: 0;
+    font-size: 2rem;
+    color: #555;
+    cursor: pointer;
 }
