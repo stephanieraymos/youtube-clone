@@ -101,3 +101,9 @@ body {
     align-items: center;
     padding: 0 .5rem;
 }
+
+.video-section-title-close {
+    border: none;
+    background: none;
+    padding: 0;
+}
