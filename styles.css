@@ -92,3 +92,7 @@ body {
 .video-metadata {
     color: #555;
 }
+
+.video-section-title {
+    grid-column: 1 / -1;
+}
