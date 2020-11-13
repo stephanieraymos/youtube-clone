@@ -125,3 +125,11 @@ body {
     display: flex;
     overflow: hidden;
 }
+
+.category {
+    margin-right: 1rem;
+    word-wrap: none;
+    white-space: nowrap;
+    border: 1px solid #ccc;
+    border-radius: 900px;
+}
