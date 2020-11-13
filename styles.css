@@ -123,4 +123,5 @@ body {
 
 .category-section {
     display: flex;
+    overflow: hidden;
 }
