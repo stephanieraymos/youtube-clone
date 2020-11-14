@@ -185,4 +185,7 @@ body {
     padding: 0 1.25rem;
     border: 1px solid #777;
     background-color: #f8f8f8;
+    border-left: none;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
 }
