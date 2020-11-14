@@ -194,3 +194,9 @@ body {
 .search-btn:hover {
     background-color: #f0f0f0;
 }
+
+.menu-icons {
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    gap: 1.5rem;
+}
