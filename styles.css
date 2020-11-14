@@ -183,4 +183,6 @@ body {
     display: flex;
     align-items: center;
     padding: 0 1.25rem;
+    border: 1px solid #777;
+    background-color: #f8f8f8;
 }
