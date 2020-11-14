@@ -142,3 +142,7 @@ body {
 .category:hover {
     background-color: #ddd;
 }
+
+.category.active {
+    background-color: #606060;
+}
