@@ -148,3 +148,7 @@ body {
     color: white;
     border-color: #eee;
 }
+
+.category:last-child {
+    margin-right: 0;
+}
