@@ -165,6 +165,7 @@ body {
 }
 
 .search-bar {
+    display: flex;
     flex-grow: 1;
 }
 
