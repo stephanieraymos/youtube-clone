@@ -178,3 +178,9 @@ body {
     border-top-right-radius: 0;
     border-bottom-right-radius: 0;
 }
+
+.serach-btn {
+    display: flex;
+    align-items: center;
+    padding: 0 1.25rem;
+}
