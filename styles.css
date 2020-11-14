@@ -167,8 +167,14 @@ body {
 .search-bar {
     display: flex;
     flex-grow: 1;
+    margin: 0 2rem 0 4rem;
 }
 
 .search-input {
     width: 100%;
+    font-size: inherit;
+    padding: .4em;
+    border: 1px solid #777;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
 }
