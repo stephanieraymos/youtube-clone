@@ -198,5 +198,6 @@ body {
 .menu-icons {
     display: grid;
     grid-template-columns: repeat(4, auto);
+    align-items: center;
     gap: 1.5rem;
 }
