@@ -145,4 +145,6 @@ body {
 
 .category.active {
     background-color: #606060;
+    color: white;
+    border-color: #eee;
 }
