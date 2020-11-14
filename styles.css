@@ -201,3 +201,10 @@ body {
     align-items: center;
     gap: 1.5rem;
 }
+
+.menu-channel-icon {
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    background-color: #aaa;
+}
