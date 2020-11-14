@@ -152,3 +152,7 @@ body {
 .category:last-child {
     margin-right: 0;
 }
+
+.header {
+    display: flex;
+}
